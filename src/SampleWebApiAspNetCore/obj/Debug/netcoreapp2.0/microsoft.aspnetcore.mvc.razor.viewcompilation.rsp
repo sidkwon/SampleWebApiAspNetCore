@@ -1,0 +1,5 @@
+/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=SampleWebApiAspNetCore
+--content-root=/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore
+--file=

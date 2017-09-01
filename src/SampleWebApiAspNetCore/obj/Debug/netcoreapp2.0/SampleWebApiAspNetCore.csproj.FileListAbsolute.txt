@@ -1,0 +1,10 @@
+/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore/bin/Debug/netcoreapp2.0/SampleWebApiAspNetCore.deps.json
+/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore/bin/Debug/netcoreapp2.0/SampleWebApiAspNetCore.runtimeconfig.json
+/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore/bin/Debug/netcoreapp2.0/SampleWebApiAspNetCore.runtimeconfig.dev.json
+/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore/bin/Debug/netcoreapp2.0/SampleWebApiAspNetCore.dll
+/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore/bin/Debug/netcoreapp2.0/SampleWebApiAspNetCore.pdb
+/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore/obj/Debug/netcoreapp2.0/SampleWebApiAspNetCore.csproj.CoreCompileInputs.cache
+/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore/obj/Debug/netcoreapp2.0/SampleWebApiAspNetCore.AssemblyInfoInputs.cache
+/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore/obj/Debug/netcoreapp2.0/SampleWebApiAspNetCore.AssemblyInfo.cs
+/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore/obj/Debug/netcoreapp2.0/SampleWebApiAspNetCore.dll
+/root/src/ASPNETCore-WebAPI-Sample/src/SampleWebApiAspNetCore/obj/Debug/netcoreapp2.0/SampleWebApiAspNetCore.pdb
